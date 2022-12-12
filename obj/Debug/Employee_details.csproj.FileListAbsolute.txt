@@ -1,0 +1,2 @@
+C:\Users\mrai32\Downloads\Employee_details-master\Employee_details-master\obj\Debug\Employee_details.csproj.AssemblyReference.cache
+C:\Users\mrai32\Downloads\Employee_details-master\Employee_details-master\obj\Debug\Employee_details.csproj.CoreCompileInputs.cache
